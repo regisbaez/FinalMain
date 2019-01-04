@@ -7,7 +7,7 @@ class Articulo {
     int cantidadDisponible
     float precio
     String foto
-
+//double check
 
     static constraints = {
     }
